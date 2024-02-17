@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: sethukumar
+Version: 0.0.1
+Summary: my first library
+Home-page: https://github.com/SETHUKUMAR1709/integrated/tree/main/library1
+Author: sethukumar moorthy
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+License-File: license.txt
+
+This is my first library

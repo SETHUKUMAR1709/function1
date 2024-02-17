@@ -6,7 +6,7 @@ setuptools.setup(
     long_description= "This is my first library",
     author="sethukumar moorthy",
     packages= setuptools.find_packages(),
-    url="C:\Users\hp\Documents\GitHub\function1\library1",
+    url="https://github.com/SETHUKUMAR1709/integrated/tree/main/library1",
     classifiers=[
         "Programming Language :: Python :: 3",
          "Operating System :: OS Independent",
