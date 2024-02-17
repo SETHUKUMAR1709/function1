@@ -2,10 +2,10 @@ from setuptools import find_packages, setup
 
 setup(
     name="firstlib12345",
-    version="0.0.13",
+    version="0.0.14",
     description="simple lib",
     package_dir={},
-    packages=find_packages(),
+    packages=['src'],
     url="https://github.com/SETHUKUMAR1709/integrated/tree/main/firstlib12345",
     author="GGEZ",
     author_email="sethukumars774@gmail.com",
