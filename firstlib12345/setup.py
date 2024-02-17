@@ -2,9 +2,8 @@ from setuptools import find_packages, setup
 
 setup(
     name="firstlib12345",
-    version="0.0.15",
+    version="0.0.16",
     description="simple lib",
-    package_dir={},
     packages=['src'],
     url="https://github.com/SETHUKUMAR1709/integrated/tree/main/firstlib12345",
     author="GGEZ",
