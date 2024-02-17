@@ -2,7 +2,7 @@ from setuptools import find_packages, setup
 
 setup(
     name="firstlib12345",
-    version="0.0.14",
+    version="0.0.15",
     description="simple lib",
     package_dir={},
     packages=['src'],
