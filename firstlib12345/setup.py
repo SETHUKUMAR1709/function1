@@ -2,11 +2,11 @@ from setuptools import find_packages, setup
 
 setup(
     name="firstlib12345",
-    version="0.0.12",
+    version="0.0.13",
     description="simple lib",
     package_dir={},
     packages=find_packages(),
-    url="https://github.com/SETHUKUMAR1709/integrated/tree/main/firstlib",
+    url="https://github.com/SETHUKUMAR1709/integrated/tree/main/firstlib12345",
     author="GGEZ",
     author_email="sethukumars774@gmail.com",
     license="MIT",
@@ -17,5 +17,5 @@ setup(
     ],
     install_requires=[],
     extras_require={},
-    python_requires=">=3.10",
+    python_requires=">=3.11",
 )
