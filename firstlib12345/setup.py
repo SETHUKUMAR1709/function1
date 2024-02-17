@@ -3,7 +3,7 @@ from setuptools import find_packages, setup
 setup(
     include_package_data=True,
     name="firstlib12345",
-    version="0.0.19",
+    version="0.0.20",
     description="simple lib",
     packages=find_packages(),
     author="GGEZ",
